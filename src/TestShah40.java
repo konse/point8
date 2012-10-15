@@ -1,10 +1,4 @@
-/**
- * Created by IntelliJ IDEA.
- * User: 1
- * Date: 05.09.12
- * Time: 13:32
- * To change this template use File | Settings | File Templates.
- */
+
 public class TestShah40 {
     static String []poleA={"A","B","C","D","E","F","G","H"};
     static String[]arrVariantov=new String[200];
